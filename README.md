@@ -1,3 +1,3 @@
 # blog
 
-<a href="blog.liquewu.cf" target="_blank">地址</a>
+<a href="https://blog.liquewu.cf" target="_blank">地址</a>
